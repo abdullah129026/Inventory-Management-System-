@@ -10,8 +10,8 @@
 
 using namespace std;
 
-// Product class
 
+// Product class
 class Product {
 private:
 	string name;
